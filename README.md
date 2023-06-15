@@ -11,6 +11,8 @@ Scape Inout do not collect any type of data from the user, nor does it track the
 
 We do not share any information with external services.
 
+We need to access for capture user commands and explore the game, but we don't collect any data.
+
 We do not identify the user, as compliant with GDPR.
 
 By using our app you accept our Terms and conditions .
